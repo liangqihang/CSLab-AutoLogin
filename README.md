@@ -2,5 +2,5 @@
 
 ## Usage
 ```
-$ python login.py --eid eid --pwd password
+$ python login.py --eid EID --pwd password
 ```
